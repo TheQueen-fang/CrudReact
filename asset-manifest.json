@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CrudWithReact.git/static/css/main.073c9b0a.css",
+    "main.js": "/CrudWithReact.git/static/js/main.39dd05ad.js",
+    "static/js/787.0053fe77.chunk.js": "/CrudWithReact.git/static/js/787.0053fe77.chunk.js",
+    "static/media/logo.svg": "/CrudWithReact.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CrudWithReact.git/index.html",
+    "main.073c9b0a.css.map": "/CrudWithReact.git/static/css/main.073c9b0a.css.map",
+    "main.39dd05ad.js.map": "/CrudWithReact.git/static/js/main.39dd05ad.js.map",
+    "787.0053fe77.chunk.js.map": "/CrudWithReact.git/static/js/787.0053fe77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.39dd05ad.js"
+  ]
+}
