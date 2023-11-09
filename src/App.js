@@ -8,10 +8,10 @@ import Read from './components/Read'
 function App() {
   return (
      <div className="App">
-    <BrowserRouter basename='/CrudWithReact'>
+    <BrowserRouter >
       <Routes>
        
-          <Route exact path='/CrudWithReact' element={<Create/>}></Route>
+          <Route exact path='/' element={<Create/>}></Route>
           <Route exact path='/read' element={<Read />}></Route>
           
           <Route exact path='/update' element={<Update/>}></Route>
